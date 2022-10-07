@@ -11,5 +11,4 @@ go ahead 0/
 Here you can test face tracking with python and opencv
 
 <h2>Resouce LightFarm studios video test<h2>
-[I'm an inline-style link](https://www.loom.com/share/6a6d96494dc5471096ef90311e823edb)
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[Result with resource video](https://www.loom.com/share/6a6d96494dc5471096ef90311e823edb)
